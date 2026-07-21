@@ -2,24 +2,15 @@
 
 ###
 
-<p align="left">
-Backend-focused software developer from Türkiye 🇹🇷<br>
-Building scalable systems, automation tools, and AI-powered applications.
-</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
 <p align="left">
-✨ Creating bugs and fixing them since 2022<br>
-🚀 Passionate about Backend Development, AI Integrations, and System Design<br>
+🚀 Passionate about Cyber Security, AI Integrations, and System Design<br>
 📚 Currently exploring LLMs, AI Agents, RAG architectures, and scalable cloud systems<br>
 🎯 Goal: Build products that solve real-world problems and impact thousands of users<br>
 🛠️ Enjoy turning ideas into production-ready software<br>
-🎲 Fun fact: I often automate tasks instead of doing them manually twice
 </p>
 
 ###
